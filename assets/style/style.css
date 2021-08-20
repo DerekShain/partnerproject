@@ -18,7 +18,7 @@ body{
 }
 
 .yellowbar{
-    heigt: 78px;
+    height: 78px;
     width: 10px;
     background-color: var(--bm-yellow);
 
@@ -34,7 +34,7 @@ img:hover{
 }
 
 .infograph{
-    background-image: url("/assets/pics/Rectangle5.png");
+    background-image: url("assets/pics/Rectangle5.png");
     height:fit-content;
     background-repeat: no-repeat;
     vertical-align: top;
